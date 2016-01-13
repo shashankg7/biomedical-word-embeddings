@@ -1,7 +1,7 @@
 biomedical-word-embeddings
 ==========================
 
-http://jakerochlinmarcus.github.io/vector-representations.html
+http://jakerochlinmarcus.github.io/word-embeddings.html
 
 bash download_embeddings.sh
 bash PubMed-and-PMC-w2v.sh
