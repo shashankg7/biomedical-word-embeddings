@@ -10,7 +10,7 @@ UMLS
 ====
 
 install_umls.sh: downloads and installs the UMLS
-create_umls_db.sh: creates a sqlite database containing a subset of the UMLS
+create_umls_db.sh: creates a SQLite database containing a subset of the UMLS
 
 Word embeddings
 ===============
