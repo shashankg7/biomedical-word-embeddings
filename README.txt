@@ -25,3 +25,9 @@ mrrel_vocab_excise.csv: a spreadsheet of term pairs with the relationship proced
 pairs.csv: cleaned up version of term pairs with the relationship procedure_has_excised_anatomy
 create_analogies.py: produces analogies based on pairs.csv
 analogies.txt: analogies based on pairs.csv
+
+Install
+=======
+
+pip install -r requirements.txt
+bash install_wvlib.sh

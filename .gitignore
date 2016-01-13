@@ -1,3 +1,9 @@
+.DS_Store
 PubMed-and-PMC-ri.tar.gz
 PubMed-and-PMC-w2v_reduced.bin
+PubMed-and-PMC-ri_reduced.bin
+PubMed-and-PMC-ri.bin
 PubMed-and-PMC-w2v.bin
+*.pyc
+wvlib-master/
+wvlib.zip

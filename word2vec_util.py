@@ -105,7 +105,6 @@ def reduce_vocab(path, vocab=None, num_lines=None, norm_only=True, verbose=True)
 				if line_no == num_lines:
 					break
 
-	result.init_sims(norm_only)
 	result.syn0.resize((len(result.vocab), result.vector_size), refcheck=False)
-	result.syn0norm.resize((len(result.vocab), result.vector_size), refcheck=False)
+	result.init_sims(norm_only)
 	return result
